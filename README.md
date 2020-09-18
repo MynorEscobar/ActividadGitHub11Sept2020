@@ -1,6 +1,7 @@
 # Aprendiendo Git y GitHub
 Activida 11/09/2020
-![](/imagenes/logoEFPEM.png)
+<img src="imagenes/logoEFPEM.png">
+![](imagenes/logoEFPEM.png)
 
 ## Integrantes
 * [Diego Yoc](/diegoyoc.html)
