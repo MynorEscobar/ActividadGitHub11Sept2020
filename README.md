@@ -1,10 +1,10 @@
 # Aprendiendo Git y GitHub
-Activida 16/09/2020
-![](/logousac.png)
+Activida 11/09/2020
+![](/imagenes/logoEFPEM.png)
 
 ## Integrantes
-[Diego Yoc](/diegoyoc.html)
-[Jorge Perez](/jorgeperez.html/)
-[Mayron Herrera](/myronherrera.html/)
+* [Diego Yoc](/diegoyoc.html)
+* [Jorge Perez](/jorgeperez.html/)
+* [Mayron Herrera](/myronherrera.html/)
 
 
