@@ -15,3 +15,5 @@ Actividad: 11 de septiembre de 2020
 |1 |<a href="diegoyoc.html">Diego Yoc</a> |
 |2 |Problema 2 |
 
+## Pagina Nueva
+* [Eddin Fernando Nij](/EddinNij.html)
